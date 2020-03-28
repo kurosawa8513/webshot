@@ -1,0 +1,8 @@
+,TAG,CLASS,ID,RE
+b.hatena.ne.jp,		header	,module module--free-space	,appsbanner		,
+blog.livedoor.jp,			,							,				,(popular_articles|article-button)
+headlines.yahoo.co.jp,		,							,				,(yjNewsMsheader)
+togetter.com,				,							,				,(header)
+tr.twipple.jp,				,							,				,(specialarea|new_header_sp|move_btn|uBox|shareBox)
+www.amazon.co.jp,	header	,							,				,(crown-mobile)
+twitter.com,		header	,							,				,(css-1dbjc4n r-ku1wi2 r-utggzx r-m611by|css-1dbjc4n r-vrwoeq|css-1dbjc4n r-14lw9ot r-my5ep6 r-rull8r r-qklmqi r-1g40b8q)
