@@ -1,6 +1,6 @@
 @echo off
 REM ƒWƒ‡ƒu’è‹`(‹¤’Ê)
-setlocal
+
 SET JOB_NAME=%~n0%~x0
 SET JOB_PATH=%~dp0
 CD %JOB_PATH%
